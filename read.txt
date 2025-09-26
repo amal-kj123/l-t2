@@ -1,0 +1,66 @@
+
+# 🍰 Delicious Recipes - Home Page
+
+## 📌 Overview
+
+This project is a **responsive HTML and CSS-based recipe page** showcasing a featured recipe. The page is styled using **Google Fonts** and custom CSS for a modern, clean design.
+
+It includes:
+
+* A **header** with navigation links
+* A **main section** with a featured recipe (Chocolate Cake)
+* Responsive layout for mobile and desktop
+* **Footer** with copyright info
+
+---
+
+## 📂 Project Structure
+
+```
+.
+├── index.html        # Main HTML file
+├── chocolate cake.jpg # Recipe image (example)
+└── README.md         # Documentation
+```
+
+---
+
+## ✨ Features
+
+* **Responsive design** using CSS grid and media queries
+* **Clean typography** with Montserrat & Roboto from Google Fonts
+* **Hover animations** for articles and buttons
+* **Accessible structure** using `<header>`, `<nav>`, `<main>`, `<article>`, `<section>`, `<footer>`
+
+
+
+## 🛠️ How to Use
+
+1. Download or clone the repository:
+
+   ```bash
+   git clone https://github.com/yourusername/delicious-recipes.git
+   ```
+2. Make sure your images (e.g., `chocolate cake.jpg`) are in the same directory as `index.html`.
+3. Open `index.html` in your browser.
+
+---
+
+## 💻 Technologies Used
+
+* **HTML5**
+* **CSS3**
+* **Google Fonts**
+* **Responsive Design with CSS Grid & Flexbox**
+
+---
+
+## 📱 Responsive Design
+
+* **Desktop:** Grid-based recipe layout
+* **Tablet:** Adjusted padding and font sizes
+* **Mobile:** Single-column layout for better readability
+
+---
+
+
